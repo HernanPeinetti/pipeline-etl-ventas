@@ -1,0 +1,301 @@
+order_id,order_date,customer_id,customer_name,customer_email,province,product_id,product_name,category,quantity,unit_price,status
+ORD-00001,2025-05-21,C002,  JUAN PÉREZ  ,juan.perez@example.com,Tucumán,P001,Teclado mecánico,Accesorios,2,45000.00,completed
+ORD-00002,2025-01-17,C002,Juan Pérez,juan.perez@example.com,Tucumán,P007,Memoria RAM 16GB,Componentes,1,55000.00,completed
+ORD-00003,2025-11-29,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P004,Notebook 15 pulgadas,Computación,5,950000.00,pending
+ORD-00004,2025-12-24,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P003,Monitor 24 pulgadas,Monitores,4,210000.00,pending
+ORD-00005,2025-02-17,C006,Diego Torres,diego.torres@example.com,Santa Fe,P002,Mouse inalámbrico,Accesorios,4,18500.00,completed
+ORD-00006,2025-08-24,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P001,Teclado mecánico,Accesorios,5,45000.00,completed
+ORD-00007,2025-10-23,C005,Sofía Rodríguez,SOFIA.RODRIGUEZ@EXAMPLE.COM,Buenos Aires,P006,Disco SSD 1TB,Almacenamiento,2,98000.00,cancelled
+ORD-00008,2025-02-21,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,4,950000.00,pending
+ORD-00009,2025-07-01,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P006,Disco SSD 1TB,Almacenamiento,2,98000.00,cancelled
+ORD-00010,2025-10-01,C002,Juan Pérez,juan.perez@example.com,Tucumán,P003,Monitor 24 pulgadas,Monitores,2,210000.00,completed
+ORD-00011,2025-01-29,C004,Martín López,martin.lopez@example.com,Córdoba,P006,Disco SSD 1TB,Almacenamiento,2,98000.00,completed
+ORD-00012,2025-10-18,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,3,950000.00,completed
+ORD-00013,2025-05-16,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P003,Monitor 24 pulgadas,Monitores,2,210000.00,completed
+ORD-00014,2025-07-05,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P007,Memoria RAM 16GB,Componentes,2,55000.00,completed
+ORD-00015,2025-03-20,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P002,Mouse inalámbrico,Accesorios,2,18500.00,cancelled
+ORD-00016,2025-09-28,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,3,39000.00,cancelled
+ORD-00016,2025-09-28,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,3,39000.00,cancelled
+ORD-00017,2025-11-25,C002,Juan Pérez,juan.perez@example.com,Tucumán,P005,Auriculares,Audio,3,62000.00,completed
+ORD-00018,2025-09-14,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P005,Auriculares,Audio,2,62000.00,cancelled
+ORD-00019,2025-03-20,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P004,Notebook 15 pulgadas,Computación,3,950000.00,completed
+ORD-00020,2025-09-08,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,completed
+ORD-00021,2025-01-30,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P004,Notebook 15 pulgadas,Computación,2,950000.00,cancelled
+ORD-00022,2025-09-30,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P002,Mouse inalámbrico,Accesorios,2,18500.00,completed
+ORD-00023,2025-09-28,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P005,Auriculares,Audio,5,62000.00,pending
+ORD-00024,2025-07-24,C004,Martín López,martin.lopez@example.com,Córdoba,P005,Auriculares,Audio,3,62000.00,pending
+ORD-00025,2025-02-02,C004,Martín López,martin.lopez@example.com,Córdoba,P004,Notebook 15 pulgadas,Computación,3,950000.00,completed
+ORD-00026,2025-02-06,C004,  MARTÍN LÓPEZ  ,martin.lopez@example.com,Córdoba,P001,Teclado mecánico,Accesorios,1,45000.00,completed
+ORD-00027,2025-05-23,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,4,950000.00,completed
+ORD-00028,2025-08-31,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P004,Notebook 15 pulgadas,Computación,4,950000.00,COMPLETED
+ORD-00029,2025-01-28,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,1,39000.00,completed
+ORD-00030,2025-04-09,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,2,950000.00,cancelled
+ORD-00031,2025-05-08,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P008,Webcam HD,Accesorios,1,39000.00,pending
+ORD-00032,2025-11-30,C002,Juan Pérez,juan.perez@example.com,Tucumán,P001,Teclado mecánico,Accesorios,5,45000.00,completed
+ORD-00033,2025-07-28,C004,Martín López,martin.lopez@example.com,Córdoba,P003,Monitor 24 pulgadas,Monitores,4,210000.00,pending
+ORD-00034,2025-07-14,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P003,Monitor 24 pulgadas,Monitores,1,210000.00,pending
+ORD-00035,2025-08-05,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P005,Auriculares,Audio,5,62000.00,cancelled
+ORD-00036,2025-01-30,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P004,Notebook 15 pulgadas,Computación,5,950000.00,cancelled
+ORD-00037,2025-10-27,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P001,Teclado mecánico,Accesorios,4,45000.00,cancelled
+ORD-00038,2025-04-06,C001,Ana Gómez,ANA.GOMEZ@EXAMPLE.COM,Santiago del Estero,P002,Mouse inalámbrico,Accesorios,1,18500.00,cancelled
+ORD-00039,2025-11-14,C004,Martín López,martin.lopez@example.com,Córdoba,P001,Teclado mecánico,Accesorios,1,45000.00,pending
+ORD-00040,2025-04-15,C006,Diego Torres,diego.torres@example.com,Santa Fe,P005,Auriculares,Audio,3,62000.00,completed
+ORD-00041,2025-06-11,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P008,Webcam HD,Accesorios,1,39000.00,completed
+ORD-00042,2025-10-03,C002,Juan Pérez,juan.perez@example.com,Tucumán,P002,Mouse inalámbrico,Accesorios,2,18500.00,cancelled
+ORD-00043,2025-07-09,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,3,950000.00,completed
+ORD-00044,2025-12-08,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P001,Teclado mecánico,Accesorios,5,45000.00,pending
+ORD-00045,2025-03-01,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P005,Auriculares,Audio,1,62000.00,cancelled
+ORD-00046,2025-04-15,C004,Martín López,martin.lopez@example.com,Córdoba,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,cancelled
+ORD-00047,2025-11-21,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P002,Mouse inalámbrico,Accesorios,-2,18500.00,pending
+ORD-00048,2025-08-15,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P003,Monitor 24 pulgadas,Monitores,5,210000.00,cancelled
+ORD-00048,2025-08-15,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P003,Monitor 24 pulgadas,Monitores,5,210000.00,cancelled
+ORD-00049,2025-10-07,C002,Juan Pérez,juan.perez@example.com,Tucumán,P003,Monitor 24 pulgadas,Monitores,1,210000.00,pending
+ORD-00050,2025-06-07,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P001,Teclado mecánico,Accesorios,3,45000.00,completed
+ORD-00051,2025-07-01,C004,Martín López,martin.lopez@example.com,Córdoba,P002,Mouse inalámbrico,Accesorios,5,18500.00,pending
+ORD-00052,2025-04-01,C004,Martín López,martin.lopez@example.com,Córdoba,P003,Monitor 24 pulgadas,Monitores,4,210000.00,completed
+ORD-00053,2025-05-17,C007,  VALENTINA DÍAZ  ,valentina.diaz@example.com,Mendoza,P004,Notebook 15 pulgadas,Computación,2,950000.00,cancelled
+ORD-00054,2025-08-24,C004,Martín López,martin.lopez@example.com,Córdoba,P004,Notebook 15 pulgadas,Computación,3,950000.00,pending
+ORD-00055,2025-12-04,C004,Martín López,martin.lopez@example.com,Córdoba,P001,Teclado mecánico,Accesorios,2,45000.00,pending
+ORD-00056,2025-11-25,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P006,Disco SSD 1TB,Almacenamiento,5,98000.00,pending
+ORD-00057,2025-03-01,C006,Diego Torres,diego.torres@example.com,Santa Fe,P001,Teclado mecánico,Accesorios,3,45000.00,completed
+ORD-00058,2025-11-02,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P002,Mouse inalámbrico,Accesorios,4,18500.00,pending
+ORD-00059,2030-01-01,C002,Juan Pérez,juan.perez@example.com,Tucumán,P007,Memoria RAM 16GB,Componentes,2,55000.00,pending
+ORD-00059,2030-01-01,C002,Juan Pérez,juan.perez@example.com,Tucumán,P007,Memoria RAM 16GB,Componentes,2,55000.00,pending
+ORD-00060,2025-08-09,C004,Martín López,martin.lopez@example.com,Córdoba,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,cancelled
+ORD-00061,2025-09-17,C002,Juan Pérez,juan.perez@example.com,Tucumán,P005,Auriculares,Audio,3,62000.00,cancelled
+ORD-00062,2025-04-09,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P003,Monitor 24 pulgadas,Monitores,4,210000.00,cancelled
+ORD-00063,2025-07-27,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P005,Auriculares,Audio,5,62000.00,completed
+ORD-00064,2025-08-15,C006,Diego Torres,diego.torres@example.com,Santa Fe,P008,Webcam HD,Accesorios,4,39000.00,cancelled
+ORD-00065,2025-05-26,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P002,Mouse inalámbrico,Accesorios,5,18500.00,cancelled
+ORD-00066,2025-13-45,C004,Martín López,martin.lopez@example.com,Córdoba,P005,Auriculares,Audio,2,62000.00,completed
+ORD-00067,2025-08-01,C002,Juan Pérez,juan.perez@example.com,Tucumán,P008,Webcam HD,Accesorios,5,39000.00,completed
+ORD-00068,2025-03-17,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P004,Notebook 15 pulgadas,Computación,1,950000.00,completed
+ORD-00069,2025-10-13,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P001,Teclado mecánico,Accesorios,2,45000.00,completed
+ORD-00070,2025-11-10,C006,Diego Torres,diego.torres@example.com,Santa Fe,P008,Webcam HD,Accesorios,5,39000.00,pending
+ORD-00071,2025-08-19,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,3,39000.00,completed
+ORD-00072,2025-05-21,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P004,Notebook 15 pulgadas,Computación,4,950000.00,completed
+ORD-00073,2025-10-04,C006,Diego Torres,diego.torres@example.com,Santa Fe,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,COMPLETED
+ORD-00074,2025-08-01,C004,Martín López,martin.lopez@example.com,Córdoba,P002,Mouse inalámbrico,Accesorios,4,18500.00,pending
+ORD-00075,2025-07-19,C004,Martín López,martin.lopez@example.com,Córdoba,P007,Memoria RAM 16GB,Componentes,5,55000.00,shipped??
+ORD-00076,2025-06-30,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P001,Teclado mecánico,Accesorios,3,45000.00,pending
+ORD-00077,2025-09-07,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P004,Notebook 15 pulgadas,Computación,2,950000.00,pending
+ORD-00078,2025-03-26,C006,Diego Torres,diego.torres@example.com,Santa Fe,P007,Memoria RAM 16GB,Componentes,4,55000.00,completed
+ORD-00079,2025-02-12,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P001,Teclado mecánico,Accesorios,4,45000.00,completed
+ORD-00080,2025-06-17,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P007,Memoria RAM 16GB,Componentes,2,55000.00,pending
+ORD-00081,2025-08-04,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P005,Auriculares,Audio,3,62000.00,completed
+ORD-00082,2025-04-25,,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,cancelled
+ORD-00083,2025-11-15,C004,  MARTÍN LÓPEZ  ,martin.lopez@example.com,Córdoba,P001,Teclado mecánico,Accesorios,2,45000.00,completed
+ORD-00084,2025-12-25,C004,Martín López,martin.lopez@example.com,Córdoba,P008,Webcam HD,Accesorios,3,39000.00,pending
+ORD-00085,2025-06-09,C002,Juan Pérez,juan.perez@example.com,Tucumán,P003,Monitor 24 pulgadas,Monitores,-2,210000.00,cancelled
+ORD-00086,2025-04-12,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P007,Memoria RAM 16GB,Componentes,1,55000.00,cancelled
+ORD-00087,2025-12-17,C002,Juan Pérez,juan.perez@example.com,Tucumán,P005,Auriculares,Audio,5,62000.00,completed
+ORD-00088,2025-09-30,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,cancelled
+ORD-00089,2025-08-04,C006,Diego Torres,diego.torres@example.com,Santa Fe,P001,Teclado mecánico,Accesorios,4,45000.00,completed
+ORD-00090,2025-08-11,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P003,Monitor 24 pulgadas,Monitores,2,210000.00,cancelled
+ORD-00091,2025-08-12,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P008,Webcam HD,Accesorios,5,39000.00,pending
+ORD-00092,2025-08-19,C002,Juan Pérez,juan.perez@example.com,Tucumán,P005,Auriculares,Audio,2,62000.00,pending
+ORD-00093,2025-09-11,C006,Diego Torres,diego.torres@example.com,Santa Fe,P001,Teclado mecánico,Accesorios,3,45000.00,completed
+ORD-00094,2025-05-24,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P006,Disco SSD 1TB,Almacenamiento,5,98000.00,cancelled
+ORD-00095,2025-05-04,C004,Martín López,martin.lopez@example.com,Córdoba,P002,Mouse inalámbrico,Accesorios,4,18500.00,pending
+ORD-00096,2025-08-18,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P008,Webcam HD,Accesorios,1,39000.00,completed
+ORD-00097,2025-12-06,C004,Martín López,martin.lopez@example.com,Córdoba,P005,Auriculares,Audio,5,62000.00,pending
+ORD-00098,2025-06-30,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,pending
+ORD-00099,2025-03-03,C004,Martín López,martin.lopez@example.com,Córdoba,P006,Disco SSD 1TB,Almacenamiento,5,98000.00,cancelled
+ORD-00100,2025-10-29,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P005,Auriculares,Audio,5,62000.00,cancelled
+ORD-00101,2025-04-27,C004,Martín López,martin.lopez@example.com,Córdoba,P005,Auriculares,Audio,3,62000.00,completed
+ORD-00102,2025-01-24,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P005,Auriculares,Audio,1,62000.00,cancelled
+ORD-00103,2025-01-07,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P002,Mouse inalámbrico,Accesorios,5,18500.00,pending
+ORD-00104,2025-05-10,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P001,Teclado mecánico,Accesorios,4,45000.00,completed
+ORD-00105,2025-03-19,C002,Juan Pérez,juan.perez@example.com,Tucumán,P001,Teclado mecánico,Accesorios,2,45000.00,cancelled
+ORD-00106,2025-10-13,C004,Martín López,martin.lopez@example.com,Córdoba,P002,Mouse inalámbrico,Accesorios,4,18500.00,cancelled
+ORD-00107,2025-08-15,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,3,39000.00,cancelled
+ORD-00108,2025-04-17,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P002,Mouse inalámbrico,Accesorios,2,18500.00,pending
+ORD-00109,2025-03-22,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P002,Mouse inalámbrico,Accesorios,1,18500.00,pending
+ORD-00110,2025-04-29,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P001,Teclado mecánico,Accesorios,3,45000.00,cancelled
+ORD-00111,2025-05-16,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,5,950000.00,cancelled
+ORD-00112,2025-11-28,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,2,950000.00,pending
+ORD-00113,2025-11-01,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P005,Auriculares,Audio,5,62000.00,pending
+ORD-00114,2025-05-20,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P007,Memoria RAM 16GB,Componentes,5,55000.00,cancelled
+ORD-00115,2025-13-45,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P007,Memoria RAM 16GB,Componentes,5,55000.00,pending
+ORD-00116,2025-10-23,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P005,Auriculares,Audio,1,62000.00,completed
+ORD-00117,2025-10-27,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P003,Monitor 24 pulgadas,Monitores,4,210000.00,cancelled
+ORD-00118,2025-07-29,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,pending
+ORD-00119,2025-12-22,C006,Diego Torres,diego.torres@example.com,Santa Fe,P007,Memoria RAM 16GB,Componentes,4,55000.00,pending
+ORD-00120,2025-02-15,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P008,Webcam HD,Accesorios,3,39000.00,pending
+ORD-00121,2025-12-03,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P001,Teclado mecánico,Accesorios,5,45000.00,pending
+ORD-00122,2025-11-17,C006,Diego Torres,diego.torres@example.com,Santa Fe,P008,Webcam HD,Accesorios,4,39000.00,completed
+ORD-00123,2025-12-24,C005,Sofía Rodríguez,correo-invalido,Buenos Aires,P008,Webcam HD,Accesorios,4,39000.00,completed
+ORD-00124,2025-06-09,C004,Martín López,martin.lopez@example.com,Córdoba,P003,Monitor 24 pulgadas,Monitores,5,210000.00,completed
+ORD-00125,2025-03-02,C002,Juan Pérez,juan.perez@example.com,Tucumán,P008,Webcam HD,Accesorios,2,39000.00,pending
+ORD-00126,2025-09-05,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P007,Memoria RAM 16GB,Componentes,4,55000.00,completed
+ORD-00127,2025-02-05,C004,Martín López,martin.lopez@example.com,Córdoba,P003,Monitor 24 pulgadas,Monitores,3,210000.00,pending
+ORD-00128,2025-05-25,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P001,Teclado mecánico,Accesorios,3,45000.00,cancelled
+ORD-00129,2025-10-03,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,4,39000.00,pending
+ORD-00130,2025-06-14,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,2,39000.00,cancelled
+ORD-00131,2025-06-12,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P001,Teclado mecánico,Accesorios,4,45000.00,cancelled
+ORD-00132,2025-01-19,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,2,39000.00,cancelled
+ORD-00133,2025-13-45,C002,Juan Pérez,juan.perez@example.com,Tucumán,P008,Webcam HD,Accesorios,5,39000.00,pending
+ORD-00134,2025-08-29,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P002,Mouse inalámbrico,Accesorios,3,18500.00,pending
+ORD-00135,2025-12-12,C002,Juan Pérez,juan.perez@example.com,Tucumán,P006,Disco SSD 1TB,Almacenamiento,5,98000.00,pending
+ORD-00136,2025-11-13,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P001,Teclado mecánico,Accesorios,1,45000.00,completed
+ORD-00137,2025-08-11,C004,Martín López,martin.lopez@example.com,Córdoba,P002,Mouse inalámbrico,Accesorios,1,18500.00,cancelled
+ORD-00138,2025-01-15,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P005,Auriculares,Audio,1,62000.00,pending
+ORD-00139,2025-03-16,C006,Diego Torres,diego.torres@example.com,Santa Fe,P007,Memoria RAM 16GB,Componentes,2,55000.00,cancelled
+ORD-00140,2025-03-31,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P003,Monitor 24 pulgadas,Monitores,1,210000.00,cancelled
+ORD-00141,2025-10-26,C004,Martín López,martin.lopez@example.com,Córdoba,P008,Webcam HD,Accesorios,2,39000.00,completed
+ORD-00142,2025-08-27,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P001,Teclado mecánico,Accesorios,3,45000.00,cancelled
+ORD-00143,2025-11-24,C006,Diego Torres,diego.torres@example.com,Santa Fe,P005,Auriculares,Audio,4,62000.00,cancelled
+ORD-00144,2025-09-05,C004,Martín López,martin.lopez@example.com,Córdoba,P007,Memoria RAM 16GB,Componentes,1,55000.00,completed
+ORD-00145,2025-01-12,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P005,Auriculares,Audio,4,62000.00,shipped??
+ORD-00146,2025-05-27,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P008,Webcam HD,Accesorios,2,39000.00,cancelled
+ORD-00147,2025-12-14,C004,  MARTÍN LÓPEZ  ,martin.lopez@example.com,Córdoba,P005,Auriculares,Audio,2,62000.00,cancelled
+ORD-00148,2025-10-24,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P001,Teclado mecánico,accesorios,3,45000.00,cancelled
+ORD-00149,2025-04-13,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P003,Monitor 24 pulgadas,Monitores,2,210000.00,cancelled
+ORD-00150,2025-05-12,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P003,Monitor 24 pulgadas,Monitores,4,210000.00,pending
+ORD-00151,2025-02-08,C002,Juan Pérez,juan.perez@example.com,Tucumán,P008,Webcam HD,Accesorios,2,39000.00,completed
+ORD-00152,2025-02-16,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,completed
+ORD-00153,2025-10-27,C006,Diego Torres,diego.torres@example.com,Santa Fe,P005,Auriculares,Audio,4,62000.00,cancelled
+ORD-00154,2025-01-13,C004,Martín López,martin.lopez@example.com,Córdoba,P008,Webcam HD,Accesorios,5,39000.00,cancelled
+ORD-00155,2025-12-25,C002,Juan Pérez,juan.perez@example.com,Tucumán,P008,Webcam HD,Accesorios,3,39000.00,cancelled
+ORD-00156,2025-09-10,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P005,Auriculares,Audio,1,62000.00,completed
+ORD-00157,2025-07-09,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,5,39000.00,pending
+ORD-00158,2025-09-08,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P002,Mouse inalámbrico,Accesorios,5,18500.00,pending
+ORD-00159,2025-08-16,C006,Diego Torres,diego.torres@example.com,Santa Fe,P004,Notebook 15 pulgadas,Computación,4,950000.00,completed
+ORD-00160,2025-02-01,C006,Diego Torres,diego.torres@example.com,Santa Fe,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,pending
+ORD-00161,2025-12-06,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P002,Mouse inalámbrico,Accesorios,2,18500.00,cancelled
+ORD-00162,2025-05-05,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P006,Disco SSD 1TB,Almacenamiento,2,98000.00,cancelled
+ORD-00163,2025-04-30,C004,Martín López,martin.lopez@example.com,Córdoba,P004,Notebook 15 pulgadas,Computación,3,950000.00,completed
+ORD-00164,2025-03-08,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P003,Monitor 24 pulgadas,Monitores,5,210000.00,pending
+ORD-00165,2025-01-08,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P003,Monitor 24 pulgadas,Monitores,3,210000.00,completed
+ORD-00165,2025-01-08,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P003,Monitor 24 pulgadas,Monitores,3,210000.00,completed
+ORD-00166,2025-03-06,C005,  SOFÍA RODRÍGUEZ  ,sofia.rodriguez@example.com,Buenos Aires,P001,Teclado mecánico,Accesorios,4,45000.00,cancelled
+ORD-00167,2025-08-20,C006,Diego Torres,diego.torres@example.com,Santa Fe,P002,Mouse inalámbrico,Accesorios,5,18500.00,completed
+ORD-00168,2025-11-26,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P008,Webcam HD,Accesorios,1,39000.00,completed
+ORD-00169,2025-09-09,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P002,Mouse inalámbrico,Accesorios,4,18500.00,completed
+ORD-00170,2025-03-06,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P002,Mouse inalámbrico,Accesorios,3,18500.00,cancelled
+ORD-00171,2025-11-02,C006,Diego Torres,diego.torres@example.com,Santa Fe,P007,Memoria RAM 16GB,Componentes,5,55000.00,pending
+ORD-00172,2025-12-02,C002,Juan Pérez,juan.perez@example.com,Tucumán,P002,Mouse inalámbrico,Accesorios,5,18500.00,cancelled
+ORD-00173,2025-06-23,C004,Martín López,martin.lopez@example.com,Córdoba,P007,Memoria RAM 16GB,Componentes,4,55000.00,pending
+ORD-00174,2025-12-07,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,pending
+ORD-00175,2025-02-16,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P002,Mouse inalámbrico,Accesorios,1,18500.00,completed
+ORD-00176,2025-10-12,C006,Diego Torres,diego.torres@example.com,Santa Fe,P003,Monitor 24 pulgadas,Monitores,1,210000.00,cancelled
+ORD-00177,2025-07-01,C002,Juan Pérez,juan.perez@example.com,Tucumán,P007,Memoria RAM 16GB,Componentes,-2,55000.00,cancelled
+ORD-00178,2025-10-23,C006,Diego Torres,diego.torres@example.com,Santa Fe,P002,Mouse inalámbrico,Accesorios,5,18500.00,COMPLETED
+ORD-00179,2025-10-12,C002,Juan Pérez,juan.perez@example.com,Tucumán,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,completed
+ORD-00180,2025-11-08,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P001,Teclado mecánico,Accesorios,3,45000.00,completed
+ORD-00181,2025-06-29,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,completed
+ORD-00182,2025-03-14,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P002,Mouse inalámbrico,Accesorios,1,18500.00,completed
+ORD-00183,2025-06-24,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,2,39000.00,pending
+ORD-00184,2025-03-21,,Juan Pérez,juan.perez@example.com,Tucumán,P001,Teclado mecánico,Accesorios,2,45000.00,cancelled
+ORD-00185,2025-11-07,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,4,39000.00,pending
+ORD-00186,2025-08-09,C002,Juan Pérez,juan.perez@example.com,Tucumán,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,pending
+ORD-00187,2025-13-45,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P001,Teclado mecánico,Accesorios,4,45000.00,cancelled
+ORD-00188,2025-05-11,C004,Martín López,martin.lopez@example.com,Córdoba,P003,Monitor 24 pulgadas,Monitores,3,210000.00,PENDING
+ORD-00189,2025-07-14,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P003,Monitor 24 pulgadas,Monitores,5,210000.00,cancelled
+ORD-00190,2025-07-23,,Diego Torres,diego.torres@example.com,Santa Fe,P002,Mouse inalámbrico,Accesorios,1,18500.00,pending
+ORD-00191,2025-12-30,C007,  VALENTINA DÍAZ  ,valentina.diaz@example.com,Mendoza,P007,Memoria RAM 16GB,Componentes,4,55000.00,pending
+ORD-00192,2025-12-20,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,3,39000.00,completed
+ORD-00193,2025-09-26,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P007,Memoria RAM 16GB,Componentes,1,55000.00,pending
+ORD-00194,2025-03-28,C004,Martín López,martin.lopez@example.com,Córdoba,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,cancelled
+ORD-00195,2025-06-29,C004,Martín López,martin.lopez@example.com,Córdoba,P006,Disco SSD 1TB,almacenamiento,2,98000.00,completed
+ORD-00196,2025-04-01,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P002,Mouse inalámbrico,Accesorios,4,18500.00,pending
+ORD-00197,2025-11-18,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,completed
+ORD-00198,2025-10-30,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P005,Auriculares,Audio,1,62000.00,pending
+ORD-00199,2025-01-30,C008,  NICOLÁS RUIZ  ,nicolas.ruiz@example.com,Jujuy,P001,Teclado mecánico,Accesorios,3,45000.00,pending
+ORD-00200,2025-10-25,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P008,Webcam HD,Accesorios,5,39000.00,cancelled
+ORD-00201,2025-11-06,C004,  MARTÍN LÓPEZ  ,martin.lopez@example.com,Córdoba,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,cancelled
+ORD-00202,2025-09-16,C006,Diego Torres,diego.torres@example.com,Santa Fe,P002,Mouse inalámbrico,Accesorios,2,18500.00,completed
+ORD-00203,2025-07-06,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P003,Monitor 24 pulgadas,Monitores,3,210000.00,pending
+ORD-00204,2025-02-03,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,completed
+ORD-00205,2025-06-20,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P003,Monitor 24 pulgadas,Monitores,1,210000.00,cancelled
+ORD-00206,2025-03-08,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P007,Memoria RAM 16GB,Componentes,5,55000.00,cancelled
+ORD-00207,2025-03-07,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P006,Disco SSD 1TB,Almacenamiento,5,98000.00,completed
+ORD-00208,2025-07-05,C006,Diego Torres,diego.torres@example.com,Santa Fe,P001,Teclado mecánico,Accesorios,3,45000.00,completed
+ORD-00209,2025-04-26,C008,  NICOLÁS RUIZ  ,nicolas.ruiz@example.com,Jujuy,P004,Notebook 15 pulgadas,Computación,2,950000.00,completed
+ORD-00210,2025-11-13,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P006,Disco SSD 1TB,Almacenamiento,2,98000.00,cancelled
+ORD-00211,2025-01-23,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,4,39000.00,pending
+ORD-00212,2025-08-18,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P005,Auriculares,Audio,2,62000.00,cancelled
+ORD-00213,2025-07-08,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P004,Notebook 15 pulgadas,Computación,5,950000.00,pending
+ORD-00214,2025-03-24,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P007,Memoria RAM 16GB,componentes,2,55000.00,cancelled
+ORD-00215,2025-10-11,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,cancelled
+ORD-00216,2025-03-24,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P002,Mouse inalámbrico,Accesorios,3,18500.00,pending
+ORD-00217,2025-04-24,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P002,Mouse inalámbrico,Accesorios,4,18500.00,pending
+ORD-00218,2025-05-01,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,completed
+ORD-00219,2025-03-16,C002,Juan Pérez,juan.perez@example.com,Tucumán,P006,Disco SSD 1TB,Almacenamiento,2,98000.00,completed
+ORD-00220,2025-08-18,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,5,39000.00,completed
+ORD-00220,2025-08-18,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,5,39000.00,completed
+ORD-00221,2025-10-08,C004,Martín López,martin.lopez@example.com,Córdoba,P003,Monitor 24 pulgadas,Monitores,5,210000.00,cancelled
+ORD-00222,2025-03-04,C004,Martín López,martin.lopez@example.com,Córdoba,P005,Auriculares,Audio,1,62000.00,completed
+ORD-00223,2025-02-26,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P002,Mouse inalámbrico,Accesorios,4,18500.00,cancelled
+ORD-00224,2025-05-30,C004,Martín López,martin.lopez@example.com,Córdoba,P003,Monitor 24 pulgadas,Monitores,4,210000.00,completed
+ORD-00225,2025-12-07,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P003,Monitor 24 pulgadas,Monitores,1,210000.00,cancelled
+ORD-00226,2025-08-29,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P007,Memoria RAM 16GB,Componentes,1,55000.00,cancelled
+ORD-00227,2025-02-04,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,completed
+ORD-00228,2025-01-23,C006,Diego Torres,diego.torres@example.com,Santa Fe,P003,Monitor 24 pulgadas,Monitores,3,210000.00,cancelled
+ORD-00229,2025-11-20,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P008,Webcam HD,Accesorios,2,39000.00,COMPLETED
+ORD-00230,2025-04-13,C004,Martín López,martin.lopez@example.com,Córdoba,P001,Teclado mecánico,Accesorios,1,45000.00,pending
+ORD-00231,2025-01-19,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P005,Auriculares,Audio,2,62000.00,pending
+ORD-00232,2025-03-05,C006,Diego Torres,diego.torres@example.com,Santa Fe,P005,Auriculares,Audio,3,62000.00,pending
+ORD-00233,2025-04-06,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,cancelled
+ORD-00234,2025-08-06,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P002,Mouse inalámbrico,Accesorios,1,18500.00,pending
+ORD-00235,2025-02-22,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P006,Disco SSD 1TB,Almacenamiento,1,98000.00,pending
+ORD-00236,2025-12-20,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P003,Monitor 24 pulgadas,Monitores,4,210000.00,pending
+ORD-00237,2025-05-21,C006,Diego Torres,diego.torres@example.com,Santa Fe,P007,Memoria RAM 16GB,Componentes,1,55000.00,completed
+ORD-00238,2025-03-15,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P001,Teclado mecánico,Accesorios,5,45000.00,cancelled
+ORD-00239,2025-11-27,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,3,950000.00,pending
+ORD-00240,2025-07-09,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,3,39000.00,pending
+ORD-00241,2025-06-10,C006,Diego Torres,diego.torres@example.com,Santa Fe,P007,Memoria RAM 16GB,Componentes,3,55000.00,completed
+ORD-00242,2025-09-23,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,accesorios,4,39000.00,cancelled
+ORD-00243,2025-12-22,C004,  MARTÍN LÓPEZ  ,martin.lopez@example.com,Córdoba,P005,Auriculares,Audio,4,62000.00,completed
+ORD-00244,2025-12-16,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P002,Mouse inalámbrico,Accesorios,3,18500.00,cancelled
+ORD-00245,2025-03-22,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P005,Auriculares,Audio,2,62000.00,pending
+ORD-00246,2025-05-02,C004,Martín López,martin.lopez@example.com,Córdoba,P003,Monitor 24 pulgadas,Monitores,4,210000.00,completed
+ORD-00247,2025-11-10,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P003,Monitor 24 pulgadas,Monitores,1,210000.00,completed
+ORD-00248,2025-07-29,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P007,Memoria RAM 16GB,componentes,5,55000.00,completed
+ORD-00249,2025-12-15,C008,Nicolás Ruiz,NICOLAS.RUIZ@EXAMPLE.COM,Jujuy,P008,Webcam HD,Accesorios,5,39000.00,pending
+ORD-00250,2025-09-15,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P007,Memoria RAM 16GB,Componentes,1,55000.00,completed
+ORD-00251,2025-12-30,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P006,Disco SSD 1TB,Almacenamiento,2,98000.00,pending
+ORD-00252,2025-05-09,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P002,Mouse inalámbrico,Accesorios,2,18500.00,cancelled
+ORD-00253,2025-09-15,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P002,Mouse inalámbrico,Accesorios,2,18500.00,cancelled
+ORD-00254,2025-01-15,C006,Diego Torres,diego.torres@example.com,Santa Fe,P001,Teclado mecánico,Accesorios,1,45000.00,completed
+ORD-00255,2025-10-20,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P004,Notebook 15 pulgadas,Computación,4,950000.00,cancelled
+ORD-00256,2025-09-05,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P005,Auriculares,Audio,2,62000.00,cancelled
+ORD-00257,2025-08-14,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P003,Monitor 24 pulgadas,Monitores,4,210000.00,pending
+ORD-00258,2025-06-13,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P006,Disco SSD 1TB,almacenamiento,3,98000.00,pending
+ORD-00259,2025-05-04,C002,Juan Pérez,juan.perez@example.com,Tucumán,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,completed
+ORD-00260,2025-05-29,C002,Juan Pérez,juan.perez@example.com,Tucumán,P001,Teclado mecánico,Accesorios,4,45000.00,cancelled
+ORD-00261,2025-10-23,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,completed
+ORD-00262,2025-06-07,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P008,Webcam HD,Accesorios,4,39000.00,COMPLETED
+ORD-00263,2030-01-01,C004,Martín López,martin.lopez@example.com,Córdoba,P004,Notebook 15 pulgadas,Computación,3,950000.00,completed
+ORD-00264,2025-10-02,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P005,Auriculares,Audio,1,62000.00,completed
+ORD-00265,2025-07-07,C006,Diego Torres,diego.torres@example.com,Santa Fe,P007,Memoria RAM 16GB,Componentes,1,abc,pending
+ORD-00266,2025-07-17,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P002,Mouse inalámbrico,Accesorios,5,18500.00,pending
+ORD-00267,2025-02-19,C002,Juan Pérez,juan.perez@example.com,Tucumán,P003,Monitor 24 pulgadas,Monitores,4,210000.00,pending
+ORD-00268,2025-04-12,C006,Diego Torres,diego.torres@example.com,Santa Fe,P003,Monitor 24 pulgadas,Monitores,5,210000.00,cancelled
+ORD-00269,2025-06-20,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P003,Monitor 24 pulgadas,Monitores,4,210000.00,cancelled
+ORD-00270,2025-11-10,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,completed
+ORD-00271,2025-09-17,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P006,Disco SSD 1TB,Almacenamiento,5,98000.00,cancelled
+ORD-00272,2025-07-08,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P001,Teclado mecánico,Accesorios,3,45000.00,CANCELLED
+ORD-00273,2025-05-16,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P008,Webcam HD,Accesorios,5,39000.00,cancelled
+ORD-00274,2025-09-26,C008,Nicolás Ruiz,NICOLAS.RUIZ@EXAMPLE.COM,Jujuy,P003,Monitor 24 pulgadas,Monitores,5,210000.00,pending
+ORD-00275,2025-01-10,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,4,950000.00,pending
+ORD-00276,2025-09-14,C004,Martín López,martin.lopez@example.com,Córdoba,P007,Memoria RAM 16GB,Componentes,5,55000.00,pending
+ORD-00277,2025-09-23,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P003,Monitor 24 pulgadas,Monitores,2,210000.00,cancelled
+ORD-00278,2025-03-30,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P006,Disco SSD 1TB,Almacenamiento,4,98000.00,cancelled
+ORD-00279,2025-04-09,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P008,Webcam HD,Accesorios,2,39000.00,pending
+ORD-00280,2025-12-27,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P005,Auriculares,Audio,2,62000.00,cancelled
+ORD-00281,2025-05-28,C006,Diego Torres,diego.torres@example.com,Santa Fe,P005,Auriculares,Audio,1,62000.00,cancelled
+ORD-00282,2025-03-16,C007,Valentina Díaz,valentina.diaz@example.com,Mendoza,P006,Disco SSD 1TB,Almacenamiento,3,98000.00,completed
+ORD-00283,2025-12-02,C006,Diego Torres,diego.torres@example.com,Santa Fe,P008,Webcam HD,Accesorios,3,39000.00,cancelled
+ORD-00284,2025-03-12,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P005,Auriculares,Audio,1,62000.00,cancelled
+ORD-00285,2025-11-23,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P004,Notebook 15 pulgadas,computación,2,950000.00,completed
+ORD-00286,2025-01-03,C002,Juan Pérez,juan.perez@example.com,Tucumán,P003,Monitor 24 pulgadas,Monitores,5,210000.00,completed
+ORD-00287,2025-11-30,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P008,Webcam HD,Accesorios,2,39000.00,pending
+ORD-00288,2025-10-01,C002,Juan Pérez,juan.perez@example.com,Tucumán,P004,Notebook 15 pulgadas,Computación,1,950000.00,completed
+ORD-00289,2025-09-11,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P007,Memoria RAM 16GB,Componentes,2,55000.00,cancelled
+ORD-00290,2025-06-02,C001,Ana Gómez,ana.gomez@example.com,Santiago del Estero,P001,Teclado mecánico,accesorios,5,45000.00,cancelled
+ORD-00291,2025-09-16,C008,Nicolás Ruiz,nicolas.ruiz@example.com,Jujuy,P003,Monitor 24 pulgadas,Monitores,4,210000.00,pending
+ORD-00292,2025-11-28,C003,Lucía Fernández,lucia.fernandez@example.com,Salta,P008,Webcam HD,Accesorios,3,39000.00,cancelled
+ORD-00293,2025-03-31,C005,Sofía Rodríguez,sofia.rodriguez@example.com,Buenos Aires,P004,Notebook 15 pulgadas,Computación,5,950000.00,cancelled
+ORD-00294,2025-07-25,C006,Diego Torres,diego.torres@example.com,Santa Fe,P002,Mouse inalámbrico,Accesorios,1,18500.00,completed
+ORD-00295,2025-05-14,C004,Martín López,martin.lopez@example.com,Córdoba,P001,Teclado mecánico,Accesorios,4,45000.00,completed
